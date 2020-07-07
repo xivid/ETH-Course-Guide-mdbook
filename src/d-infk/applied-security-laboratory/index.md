@@ -1,1 +1,0 @@
-# 252-0811-00L Applied Security Laboratory

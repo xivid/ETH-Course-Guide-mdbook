@@ -1,1 +1,0 @@
-# 401-3660-20L Numerical Analysis Seminar: Tensor-Structured Methods in Scientific Computing

@@ -1,1 +1,0 @@
-# 401-4530-20L Analysis Aspects of Minimal Surfaces

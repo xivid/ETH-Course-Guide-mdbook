@@ -1,1 +1,0 @@
-# 227-0126-00L Advanced Topics in Networked Embedded Systems

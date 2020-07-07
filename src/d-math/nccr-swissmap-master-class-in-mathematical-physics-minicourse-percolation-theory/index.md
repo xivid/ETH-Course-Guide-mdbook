@@ -1,1 +1,0 @@
-# 401-4604-20L NCCR SwissMAP – Master Class in Mathematical Physics: Minicourse "Percolation Theory"

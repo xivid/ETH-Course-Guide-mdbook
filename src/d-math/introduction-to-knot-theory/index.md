@@ -1,1 +1,0 @@
-# 401-3574-61L Introduction to Knot Theory

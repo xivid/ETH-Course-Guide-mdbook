@@ -1,1 +1,0 @@
-# 151-0601-00L Theory of Robotics and Mechatronics

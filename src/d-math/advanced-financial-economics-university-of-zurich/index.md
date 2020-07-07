@@ -1,1 +1,0 @@
-# 401-8915-00L Advanced Financial Economics (University of Zurich)

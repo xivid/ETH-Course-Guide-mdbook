@@ -1,1 +1,0 @@
-# 401-3461-00L Functional Analysis I

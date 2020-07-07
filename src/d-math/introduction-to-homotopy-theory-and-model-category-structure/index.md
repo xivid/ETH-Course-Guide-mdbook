@@ -1,1 +1,0 @@
-# 401-3180-20L Introduction to Homotopy Theory and Model Category Structure

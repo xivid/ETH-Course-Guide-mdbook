@@ -1,1 +1,0 @@
-# 401-3001-61L Algebraic Topology I

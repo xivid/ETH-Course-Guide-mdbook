@@ -1,1 +1,0 @@
-# 363-0503-00L Principles of Microeconomics

@@ -1,1 +1,0 @@
-# 401-3462-00L Functional Analysis II

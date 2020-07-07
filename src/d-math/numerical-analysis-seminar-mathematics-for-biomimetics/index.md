@@ -1,1 +1,0 @@
-# 401-3920-17L Numerical Analysis Seminar: Mathematics for Biomimetics

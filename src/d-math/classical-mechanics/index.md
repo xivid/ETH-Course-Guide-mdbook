@@ -1,1 +1,0 @@
-# 402-2203-01L Classical Mechanics

@@ -1,1 +1,0 @@
-# 401-3371-00L Dynamical Systems I

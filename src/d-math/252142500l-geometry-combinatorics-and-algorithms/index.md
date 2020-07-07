@@ -1,1 +1,0 @@
-# 252-1425-00L 252-1425-00L Geometry: Combinatorics and Algorithms

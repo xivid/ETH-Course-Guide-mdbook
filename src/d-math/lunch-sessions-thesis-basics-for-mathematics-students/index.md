@@ -1,1 +1,0 @@
-# 401-2000-01L Lunch Sessions – Thesis Basics for Mathematics Students

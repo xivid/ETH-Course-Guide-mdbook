@@ -1,1 +1,0 @@
-# 401-3620-69L Student Seminar in Statistics: The Art of Statistics

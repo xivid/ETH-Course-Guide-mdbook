@@ -1,1 +1,0 @@
-# 401-2334-00L Methods of Mathematical Physics II

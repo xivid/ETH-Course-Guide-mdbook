@@ -1,1 +1,0 @@
-# 151-0530-00L Nonlinear Dynamics and Chaos II

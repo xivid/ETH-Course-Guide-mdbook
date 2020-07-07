@@ -1,1 +1,0 @@
-# 401-3990-10L Bachelor's Thesis

@@ -1,1 +1,0 @@
-# 252-0543-01L Computer Graphics

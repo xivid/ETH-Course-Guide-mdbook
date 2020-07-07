@@ -1,1 +1,0 @@
-# 401-3888-00L Introduction to Mathematical Finance

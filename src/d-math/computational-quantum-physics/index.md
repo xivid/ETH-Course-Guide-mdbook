@@ -1,1 +1,0 @@
-# 402-0810-00L Computational Quantum Physics

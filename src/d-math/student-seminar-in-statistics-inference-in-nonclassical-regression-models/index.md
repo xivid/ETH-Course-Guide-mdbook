@@ -1,1 +1,0 @@
-# 401-3620-20L Student Seminar in Statistics: Inference in Non-Classical Regression Models

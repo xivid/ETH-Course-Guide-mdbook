@@ -1,1 +1,0 @@
-# 263-2900-00L How To Give Strong Technical Presentations

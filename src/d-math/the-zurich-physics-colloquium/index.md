@@ -1,1 +1,0 @@
-# 402-0101-00L The Zurich Physics Colloquium

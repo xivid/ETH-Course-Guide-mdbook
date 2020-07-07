@@ -1,1 +1,0 @@
-# 252-0216-00L Rigorous Software Engineering

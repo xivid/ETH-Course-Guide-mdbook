@@ -1,1 +1,0 @@
-# 401-3200-16L Power Sums of Coxeter Exponents (With Some Insight Into the Evolution of an Article)

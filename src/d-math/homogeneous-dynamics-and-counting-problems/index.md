@@ -1,1 +1,0 @@
-# 401-3370-67L Homogeneous Dynamics and Counting Problems

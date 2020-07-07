@@ -1,1 +1,0 @@
-# 227-1034-00L Computational Vision (University of Zurich)

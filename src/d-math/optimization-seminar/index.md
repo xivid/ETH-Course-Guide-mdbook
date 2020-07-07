@@ -1,1 +1,0 @@
-# 401-5900-00L Optimization Seminar

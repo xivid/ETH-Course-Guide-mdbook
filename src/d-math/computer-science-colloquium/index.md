@@ -1,1 +1,0 @@
-# 251-0100-00L Computer Science Colloquium

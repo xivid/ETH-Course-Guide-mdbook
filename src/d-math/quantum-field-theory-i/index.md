@@ -1,1 +1,0 @@
-# 402-0843-00L Quantum Field Theory I

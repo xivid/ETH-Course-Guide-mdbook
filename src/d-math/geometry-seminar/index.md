@@ -1,1 +1,0 @@
-# 401-5530-00L Geometry Seminar

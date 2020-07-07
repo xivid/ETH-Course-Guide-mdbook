@@ -1,1 +1,0 @@
-# 401-0625-01L Applied Analysis of Variance and Experimental Design

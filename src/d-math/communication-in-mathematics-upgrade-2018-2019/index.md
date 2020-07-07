@@ -1,1 +1,0 @@
-# 401-0000-99L Communication in Mathematics (Upgrade 2018 → 2019)

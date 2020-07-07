@@ -1,1 +1,0 @@
-# 252-3002-00L Algorithms for Database Systems

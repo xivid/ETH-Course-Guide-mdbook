@@ -1,1 +1,0 @@
-# 252-0820-00L Case Studies from Practice

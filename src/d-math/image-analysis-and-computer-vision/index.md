@@ -1,1 +1,0 @@
-# 227-0447-00L Image Analysis and Computer Vision

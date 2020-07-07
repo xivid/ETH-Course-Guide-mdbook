@@ -1,1 +1,0 @@
-# 401-3225-00L Introduction to Lie Groups

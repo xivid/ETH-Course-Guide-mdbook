@@ -1,1 +1,0 @@
-# 227-0423-00L Neural Network Theory

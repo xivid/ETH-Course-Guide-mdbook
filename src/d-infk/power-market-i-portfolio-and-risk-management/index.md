@@ -1,1 +1,0 @@
-# 227-0731-00L Power Market I - Portfolio and Risk Management

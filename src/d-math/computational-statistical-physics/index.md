@@ -1,1 +1,0 @@
-# 402-0812-00L Computational Statistical Physics

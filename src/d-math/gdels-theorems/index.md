@@ -1,1 +1,0 @@
-# 401-3033-00L Gödel's Theorems

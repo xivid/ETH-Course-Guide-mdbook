@@ -1,1 +1,0 @@
-# 227-1037-00L Introduction to Neuroinformatics

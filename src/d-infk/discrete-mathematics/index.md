@@ -1,1 +1,0 @@
-# 252-0025-01L Discrete Mathematics

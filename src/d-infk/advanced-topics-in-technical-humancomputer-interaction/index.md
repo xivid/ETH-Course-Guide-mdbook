@@ -1,1 +1,0 @@
-# 252-3800-00L Advanced Topics in Technical Human-Computer Interaction

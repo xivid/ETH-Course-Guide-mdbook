@@ -1,1 +1,0 @@
-# 401-4037-69L O-Minimality and Diophantine Applications

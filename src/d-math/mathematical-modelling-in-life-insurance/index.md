@@ -1,1 +1,0 @@
-# 401-3927-00L Mathematical Modelling in Life Insurance

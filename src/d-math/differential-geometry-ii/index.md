@@ -1,1 +1,0 @@
-# 401-3532-08L Differential Geometry II

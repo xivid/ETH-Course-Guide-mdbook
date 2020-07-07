@@ -1,1 +1,0 @@
-# 151-0515-00L Continuum Mechanics 2

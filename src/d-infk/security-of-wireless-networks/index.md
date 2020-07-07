@@ -1,1 +1,0 @@
-# 252-1411-00L Security of Wireless Networks

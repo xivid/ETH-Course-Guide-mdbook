@@ -1,1 +1,0 @@
-# 252-5706-00L Mathematical Foundations of Computer Graphics and Vision

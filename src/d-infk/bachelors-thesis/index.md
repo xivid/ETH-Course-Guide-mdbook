@@ -1,1 +1,0 @@
-# 252-0500-00L Bachelor's Thesis
