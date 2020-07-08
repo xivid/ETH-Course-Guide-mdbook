@@ -18,21 +18,15 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
-      
-    - name: Download mdbook binary
+
+    - name: Deploy book
       run: |
         wget https://github.com/Xivid/mdBook/releases/download/selfv1/mdbook
         chmod +x mdbook
-      
-    - name: Generate book
-      run: |
         echo Generate book
         cd ETH-Course-Guide
         git checkout master
         ../mdbook build
-    
-    - name: Deploy to gh-pages
-      run: |
         cd ETH-Course-Guide
         git checkout gh-pages || git checkout -b gh-pages
         git pull origin gh-pages --rebase
