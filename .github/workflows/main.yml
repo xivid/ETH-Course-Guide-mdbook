@@ -19,4 +19,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Deploy book
-      run: ./.github/workflows/deploy.sh
+      run: bash ./.github/workflows/deploy.sh
