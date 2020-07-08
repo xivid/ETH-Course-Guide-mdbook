@@ -1,4 +1,4 @@
 # D-ITET
 
-Courses offered by the Dept. of Information Technology and Electrical Engineering.
+Courses offered by the Department of Information Technology and Electrical Engineering.
 
