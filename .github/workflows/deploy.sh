@@ -6,7 +6,7 @@ echo Generate book
 rm mdbook
 echo Checkout gh-pages
 git checkout gh-pages || git checkout -b gh-pages
-#git pull origin gh-pages --rebase
+git pull origin gh-pages --rebase
 echo ls@gh-pages
 ls -al
 echo Copy book sources
