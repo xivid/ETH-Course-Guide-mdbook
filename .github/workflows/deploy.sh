@@ -2,10 +2,9 @@
 wget https://github.com/Xivid/mdBook/releases/download/selfv1/mdbook
 chmod +x mdbook
 echo Generate book
-cd ETH-Course-Guide
-git checkout master
-../mdbook build
-cd ETH-Course-Guide
+./mdbook build
+rm mdbook
+echo Checkout gh-pages
 git checkout gh-pages || git checkout -b gh-pages
 git pull origin gh-pages --rebase
 echo ls@gh-pages
