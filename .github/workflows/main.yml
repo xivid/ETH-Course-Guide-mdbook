@@ -17,21 +17,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Checkout master
+    
+    # Runs a set of commands using the runners shell
+    - name: Generate book
       run: |
         git clone https://github.com/Xivid/ETH-Course-Guide
         cd ETH-Course-Guide
         pwd
-    
-    # Runs a set of commands using the runners shell
-    - name: Download mdbook binary
-      run: |
         echo Downloading mdbook binary
         git clone https://github.com/Xivid/mdBook.git
         pwd
-        
-    - name: Generate book
-      run: |
         echo Generate book
         ls -al
         mdBook/bin/mdbook build
