@@ -6,7 +6,7 @@ Under every page there is a **discussion system**, where everyone is welcome to 
 
 Hopefully all these information can help ETH students in course selecting, learning and exam preparing.
 
-You can browse courses by department in the leftside list, or find your course using the search bar.
+You can browse courses by department in the leftside list, or find your course using the search bar :)
 
 ## Contribute Your Experiences!
 
