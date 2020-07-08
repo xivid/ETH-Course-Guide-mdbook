@@ -18,5 +18,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
+      with:     
+        fetch-depth: 0
+
     - name: Deploy book
       run: bash ./.github/workflows/deploy.sh
