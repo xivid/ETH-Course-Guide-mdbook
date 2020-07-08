@@ -15,5 +15,5 @@ git clean -fx book
 git add .
 COMMIT_MESSAGE="Update mdbook `date '+%Y-%m-%d %H:%M:%S'`"
 git commit -a -m "${COMMIT_MESSAGE}"
-git push -f origin gh-pages
+git push -u origin gh-pages
 git checkout master
